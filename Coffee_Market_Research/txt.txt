@@ -1,1 +1,20 @@
+                          Title: A Dash of Coffee: Quirky Market Research, Data Analysis, and Visualization
+
+Overview - 
+Immerse yourself in the vibrant world of market research, data analysis, and visualization through the lens of coffee culture! In this engaging project, I delved into the intricate dynamics of the coffee market, offering a unique perspective on consumer behavior, trends, and preferences.
+
+My presentation, encapsulated in a dynamic PowerPoint, was meticulously crafted to captivate the audience and deliver insightful findings. Through meticulous data collection and analysis, I uncovered valuable insights into the evolving landscape of coffee consumption.
+
+From quirky consumer habits to emerging market trends, my research shed light on the diverse preferences and behaviors of coffee enthusiasts. Utilizing innovative visualization techniques, I transformed complex data into compelling visuals, making the information accessible and engaging for all attendees.
+
+With a dash of creativity and a passion for exploration, I navigated through the intricate maze of market research, uncovering hidden gems and actionable insights along the way. My presentation not only showcased my analytical prowess but also highlighted my ability to communicate complex ideas in a clear and compelling manner.
+
+Overall, "A Dash of Coffee" was an enriching journey into the world of market research, data analysis, and visualization, leaving the audience inspired and enlightened by the fascinating story behind their favorite brew.
+
+⭐Requirements for Submission - 
+Market Research:
+⚡This is a secondary research competition; your source of data will be required to prove credibility.
+⚡Research interesting coffee consumption patterns and other quirky data sets in the world. Example highest age countries and highest coffee drinking countries per capita (Is there a correlation, the highest coffee drinking countries with the highest number of metal bands in the county)
+⚡Create an interesting data visualization for your correlated data, this could be an infographic or anything you would like to choose.
+⚡Draw 5 inferences and insights from your Data Analysis and include.
 
